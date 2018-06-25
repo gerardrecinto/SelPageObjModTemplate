@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{44E002C3-38AC-4E75-B0AC-0F665C291F04}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TritonLinkTests/PageObjects/HomePage.cs">
+    <Files>
+      <File FileName="TritonLinkTests/PageObjects/HomePage.cs" Line="22" Column="32" />
+      <File FileName="TritonLinkTests/Tests.cs" Line="34" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TritonLinkTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

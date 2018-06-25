@@ -1,0 +1,16 @@
+/Users/gerardrecinto/Projects/TritonLinkTests/TritonLinkTests/bin/Debug/TritonLinkTests.dll
+/Users/gerardrecinto/Projects/TritonLinkTests/TritonLinkTests/bin/Debug/TritonLinkTests.pdb
+/Users/gerardrecinto/Projects/TritonLinkTests/TritonLinkTests/bin/Debug/nunit.framework.dll
+/Users/gerardrecinto/Projects/TritonLinkTests/TritonLinkTests/bin/Debug/SeleniumExtras.PageObjects.dll
+/Users/gerardrecinto/Projects/TritonLinkTests/TritonLinkTests/bin/Debug/SeleniumExtras.WaitHelpers.dll
+/Users/gerardrecinto/Projects/TritonLinkTests/TritonLinkTests/bin/Debug/WebDriver.dll
+/Users/gerardrecinto/Projects/TritonLinkTests/TritonLinkTests/bin/Debug/WebDriver.Support.dll
+/Users/gerardrecinto/Projects/TritonLinkTests/TritonLinkTests/bin/Debug/Xamarin.UITest.dll
+/Users/gerardrecinto/Projects/TritonLinkTests/TritonLinkTests/bin/Debug/nunit.framework.xml
+/Users/gerardrecinto/Projects/TritonLinkTests/TritonLinkTests/bin/Debug/Xamarin.UITest.xml
+/Users/gerardrecinto/Projects/TritonLinkTests/TritonLinkTests/bin/Debug/WebDriver.xml
+/Users/gerardrecinto/Projects/TritonLinkTests/TritonLinkTests/bin/Debug/WebDriver.Support.xml
+/Users/gerardrecinto/Projects/TritonLinkTests/TritonLinkTests/obj/Debug/TritonLinkTests.csproj.CoreCompileInputs.cache
+/Users/gerardrecinto/Projects/TritonLinkTests/TritonLinkTests/obj/Debug/TritonLinkTests.dll
+/Users/gerardrecinto/Projects/TritonLinkTests/TritonLinkTests/obj/Debug/TritonLinkTests.pdb
+/Users/gerardrecinto/Projects/TritonLinkTests/TritonLinkTests/obj/Debug/TritonLinkTests.csprojResolveAssemblyReference.cache
